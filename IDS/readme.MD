@@ -2,7 +2,7 @@ IDS(iterative deepening search)
 
 input
 
-N //number between 5 and 10 
+N //number between 5 and 10 for matrix NxN
 
 k //number blocked cells (randomly chosen)
 
