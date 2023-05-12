@@ -4,6 +4,7 @@ sliding puzzle game solver using A* and heuristic manhattan distance for 3x3 puz
 
 
 example input:
+
 123456078
 
 example output:
