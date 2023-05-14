@@ -1,4 +1,4 @@
-classical knapsack problem solve with genetic algorithm
+classical knapsack problem solved with genetic algorithm
 
 knapsack capacity - 5000g
 
