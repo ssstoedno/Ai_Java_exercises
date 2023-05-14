@@ -55,6 +55,9 @@ notebook 900 1
 tent 2000 150
 
 
+
+
+
 output:
 
 value of the items put in the knapsack
