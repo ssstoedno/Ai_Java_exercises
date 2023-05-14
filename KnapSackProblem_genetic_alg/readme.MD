@@ -56,7 +56,11 @@ tent 2000 150
 
 
 output:
+
 value of the items put in the knapsack
+
 weight of the values and 
+
 a binary string representing the picked items with 1
+
 
